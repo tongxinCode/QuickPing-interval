@@ -1,0 +1,1 @@
+# QuickPing-interval
